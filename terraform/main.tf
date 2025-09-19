@@ -1,3 +1,5 @@
+
+
 # Configure the Terraform backend to store state in a GCS bucket
 terraform {
   backend "gcs" {
