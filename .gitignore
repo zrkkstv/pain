@@ -1,0 +1,6 @@
+# Ignore Terraform-specific files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+.envrc
